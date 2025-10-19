@@ -65,6 +65,22 @@ const sneakers: Sneaker[] = [
     category: 'Тренинг',
     brand: 'Adidas',
   },
+  {
+    id: 7,
+    name: 'Kali Sport Urban',
+    price: 1500,
+    image: 'https://cdn.poehali.dev/files/a23d3f55-ca77-4dc3-923a-2666aa65f2ec.jpg',
+    category: 'Тренинг',
+    brand: 'Kali Sport',
+  },
+  {
+    id: 8,
+    name: 'Kali Sport Classic',
+    price: 1500,
+    image: 'https://cdn.poehali.dev/files/7eca3d09-7b80-4149-972c-18476e2b296d.jpg',
+    category: 'Тренинг',
+    brand: 'Kali Sport',
+  },
 ];
 
 const Index = () => {
